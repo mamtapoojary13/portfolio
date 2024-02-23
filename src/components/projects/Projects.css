@@ -1,0 +1,80 @@
+#projects {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+  flex-wrap: wrap;
+  margin-top: 5rem;
+}
+.pro-heading {
+  text-align: center;
+}
+.works-title {
+  text-align: center;
+  margin: 1rem 0;
+  font-size: 3rem;
+}
+.works-description {
+  font-weight: 400;
+  font-size: 1rem;
+  max-width: 50rem;
+  padding: 0 2rem;
+  text-align: center;
+}
+.div-block {
+  margin-top: 20px;
+  padding-left: 15px;
+  max-width: 30rem;
+}
+div {
+  display: block;
+}
+
+.w-inline-block {
+  max-width: 100%;
+  display: inline-block;
+}
+
+.paragraph {
+  /* color: #56555e; */
+  margin-bottom: 20px;
+  margin-top: 0.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid rgb(50, 50, 50);
+  font-weight: 200;
+  font-size: 0.9rem;
+}
+
+.project-image {
+  margin: 1rem;
+  /* padding: 2rem; */
+  border-radius: 0.5rem;
+  /* background: rgb(50, 50, 50); */
+  display: flex;
+  justify-content: center;
+}
+.p-img {
+  object-fit: cover;
+  width: 28.26rem;
+  height: 13rem;
+  border-radius: 0.5rem;
+}
+.btn-link {
+  fill: #fff;
+  width: 24px;
+  height: 24px;
+  margin: 8px;
+  transition: all 0.3s;
+}
+.btn-link:hover {
+  fill: #ffffff80;
+}
+.heading-2 {
+  font-size: 1.5rem;
+}
+@media screen and (max-width: 480px) {
+  .p-img {
+    max-width: 90vw;
+  }
+}
