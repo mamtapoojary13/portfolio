@@ -35,6 +35,7 @@
   font-size: medium;
   font-weight: 300;
   letter-spacing: 1px;
+  max-width: 30rem;
 }
 .btn {
   background: #fff;
@@ -61,7 +62,12 @@
     right: -10vw;
   }
 }
-@media screen and (max-width: 840px) {
+@media screen and (max-width: 1100px) {
+  .bg {
+    right: -15vw;
+  }
+}
+@media screen and (max-width: 900px) {
   .bg {
     right: -20vw;
   }
@@ -74,21 +80,26 @@
 }
 @media screen and (max-width: 750px) {
   .bg {
-    right: -30vw;
+    right: -25vw;
   }
 }
 @media screen and (max-width: 660px) {
   .bg {
-    right: -35vw;
+    right: -30vw;
   }
 }
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 580px) {
   .bg {
-    right: -50vw;
+    right: -40vw;
   }
 }
+
 @media screen and (max-width: 480px) {
   .bg {
-    right: -55vw;
+    right: -45vw;
+    height: 110vh;
+  }
+  .intro-para {
+    max-width: 90vw;
   }
 }

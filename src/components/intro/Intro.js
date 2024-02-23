@@ -1,6 +1,5 @@
 import "./Intro.css";
-import profile from "../../assets/profile.png";
-import bg from "../../assets/bg.jpg";
+import bg from "../../assets/bg.png";
 import contact from "../../assets/contact.png";
 import { Link } from "react-scroll";
 
@@ -14,8 +13,8 @@ function Intro() {
         </span>
         <span>MCA Graduate</span>
         <p className="intro-para">
-          I'm a Mca graduate with experience in front-end <br /> development and
-          problem solving
+          I'm a Mca graduate with experience in frontend development and problem
+          solving
         </p>
         <Link>
           <button
@@ -30,7 +29,7 @@ function Intro() {
           </button>
         </Link>
       </div>
-      <img src={profile} alt="profile" className="bg"></img>
+      <img src={bg} alt="profile" className="bg"></img>
     </section>
   );
 }

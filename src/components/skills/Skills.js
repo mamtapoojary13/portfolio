@@ -9,21 +9,21 @@ let skillsList = [
     image: frontend,
     skillHeading: "Frontend Development",
     skillDesc:
-      "Skilled in HTML, CSS, JavaScript, and React.js for creating user-friendly interfaces and interactive web applications",
+      "Skilled in HTML, CSS, JavaScript, and React.js for creating user-friendly interfaces and interactive web applications.",
   },
   {
     id: 2,
     image: python,
     skillHeading: "Python Programming Language",
     skillDesc:
-      "Skilled in Python with experience in machine learning projects completed during college",
+      "Skilled in Python with experience in machine learning projects completed during college.",
   },
   {
     id: 3,
     image: dsa,
     skillHeading: "Data Structures and Algorithms",
     skillDesc:
-      "Competent in implementing fundamental Data Structures and Algorithms, continuously improving through practice and exploration",
+      "Competent in implementing fundamental Data Structures and Algorithms, continuously improving through practice and exploration.",
   },
 ];
 
