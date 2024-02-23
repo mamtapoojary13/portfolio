@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a7837a03.css",
+    "main.js": "/portfolio/static/js/main.13ff8dca.js",
+    "static/media/profile.png": "/portfolio/static/media/profile.129c61cbeae26696e69b.png",
+    "static/media/bg.jpg": "/portfolio/static/media/bg.69748373084330508c4d.jpg",
+    "static/media/blog.jpg": "/portfolio/static/media/blog.851b8f97916b3732438b.jpg",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.224953398a81383bdda9.png",
+    "static/media/portfolio.jpeg": "/portfolio/static/media/portfolio.0d9fec4f346d7429a007.jpeg",
+    "static/media/blood.jpeg": "/portfolio/static/media/blood.aa56929c7a9b35e86cb6.jpeg",
+    "static/media/python.png": "/portfolio/static/media/python.d45b5b7158689a42898a.png",
+    "static/media/leetcode.png": "/portfolio/static/media/leetcode.bdadc1900689720d96fa.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.ae0b7f2cba1fa7b301d0.png",
+    "static/media/intern.jpeg": "/portfolio/static/media/intern.1d83f27208c95c5e409d.jpeg",
+    "static/media/twitter.png": "/portfolio/static/media/twitter.b876c4e02232ff8fafc1.png",
+    "static/media/front-end.png": "/portfolio/static/media/front-end.289e7c6910112babf7cb.png",
+    "index.html": "/portfolio/index.html",
+    "main.a7837a03.css.map": "/portfolio/static/css/main.a7837a03.css.map",
+    "main.13ff8dca.js.map": "/portfolio/static/js/main.13ff8dca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7837a03.css",
+    "static/js/main.13ff8dca.js"
+  ]
+}
