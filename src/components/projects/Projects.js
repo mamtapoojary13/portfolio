@@ -11,7 +11,7 @@ function Projects() {
         <h2 className="works-title">My Works</h2>
         <span className="works-description">
           Showcasing React frontend projects and machine learning solutions, my
-          portfolio reflects simplicity and elegance in technology
+          portfolio reflects simplicity and elegance in technology.
         </span>
       </div>
       <Project
