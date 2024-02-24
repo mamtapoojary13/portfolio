@@ -1,5 +1,5 @@
 import "./Projects.css";
-import web from "../../assets/blog.jpg";
+import blog from "../../assets/blog.jpg";
 import blood from "../../assets/blood.jpeg";
 import intern from "../../assets/intern.jpeg";
 import portfolio from "../../assets/portfolio.jpeg";
@@ -19,7 +19,7 @@ function Projects() {
         desc="Built a React news app with personalized content delivery, integrated
           search, and minimalist, user-friendly design for effortless news
           browsing."
-        img={web}
+        img={blog}
         git=""
         link=""
       />
